@@ -11,7 +11,7 @@
 ### A junior software engineer passionate about building beautiful, functional, and user-centric web applications.
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **C#, JavaScript, Node.js, React...or anything [here](https://github.com/{qinshi599}/{qinshi599}/issues)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
 
 <br>
 
@@ -31,23 +31,19 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c#,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
 <hr>
 
 ## ⚡️ Stats
-
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=HittingTheRoad&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Nora's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=HittingTheRoad&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Nora's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=HittingTheRoad&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Nora's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=qinshi599&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Nora's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=qinshi599&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Nora's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=qinshi599&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Nora's Most Used Languages" />
 </div>
 
 <hr>
-
-
-
